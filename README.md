@@ -72,6 +72,10 @@ This project builds a **handwritten digit classifier (0–9)** using the **MNIST
 pip install torch torchvision matplotlib
 
 ---
+```
+5. Paste the respective code into a cell and run.
+
+---
 ## 3. Prolog Family Tree (Task 3)
 
 ## Overview
@@ -87,7 +91,3 @@ This project demonstrates a simple family tree using Prolog.
 2. Paste the code
 3. Run queries like:
    father(john, paul).
-
-```
-
-5. Paste the respective code into a cell and run.
