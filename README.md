@@ -1,7 +1,5 @@
 # Practical Tasks Assignments
 
-This repository contains solutions for the technical assignments involving Constraint Satisfaction Problems (CSP) and Deep Learning.
-
 ---
 
 ## 1. Australia Map Coloring (CSP)
@@ -72,6 +70,23 @@ This project builds a **handwritten digit classifier (0–9)** using the **MNIST
 
 ```bash
 pip install torch torchvision matplotlib
+
+---
+## 3. Prolog Family Tree (Task 3)
+
+## Overview
+This project demonstrates a simple family tree using Prolog.
+
+## Features
+- Defines family relationships using facts
+- Uses rules to infer relationships
+- Supports queries like father, mother, sibling
+
+## How to Run
+1. Open https://swish.swi-prolog.org
+2. Paste the code
+3. Run queries like:
+   father(john, paul).
 
 ```
 
